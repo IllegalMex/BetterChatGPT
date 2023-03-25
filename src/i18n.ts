@@ -6,6 +6,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 
 export const i18nLanguages = [
   'da',
+  'de',
   'en',
   'es',
   'nb',
@@ -24,7 +25,7 @@ i18n
       loadPath: 'locales/{{lng}}/{{ns}}.json',
     },
     fallbackLng: {
-      default: ['en'],
+      default: ['de'],
     },
     ns: ['main', 'api', 'about', 'model'],
     defaultNS: 'main',
