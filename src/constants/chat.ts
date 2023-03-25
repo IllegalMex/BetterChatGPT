@@ -10,9 +10,9 @@ const dateString =
   ('0' + date.getDate()).slice(-2);
 
 // default system message obtained using the following method: https://twitter.com/DeminDimin/status/1619935545144279040
-export const _defaultSystemMessage = `You are ChatGPT, a large language model trained by OpenAI.
-Knowledge cutoff: 2021-09
-Current date: ${dateString}`;
+export const _defaultSystemMessage = `Hallo! Ich bin ChatGPT, ein großes Sprachmodell, das von OpenAI trainiert wurde.
+Mein derzeitiges Wissen wurde bis zum Jahr 2021 trainiert, so dass ich Informationen bis zu diesem Zeitpunkt kenne. Ich werde regelmäßig aktualisiert, um mein Wissen zu erweitern und auf dem neuesten Stand zu bleiben.
+Es ist jetzt der ${dateString}, also kann ich Informationen ab diesem Datum nicht kennen, es sei denn, ich werde darauf trainiert oder aktualisiert.`;
 
 export const modelOptions: ModelOptions[] = [
   'gpt-3.5-turbo',
