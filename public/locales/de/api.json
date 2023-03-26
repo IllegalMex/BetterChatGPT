@@ -1,18 +1,18 @@
 {
-  "securityMessage": "We prioritise the security of your API key and handle it with utmost care. Your key is exclusively stored on your browser and never shared with any third-party entity. It is solely used for the intended purpose of accessing the OpenAI API and not for any other unauthorised use.",
+  "securityMessage": "Wir legen höchsten Wert auf die Sicherheit Ihres API-Schlüssels und behandeln diesen mit größter Sorgfalt. Ihr Schlüssel wird ausschließlich auf Ihrem Browser gespeichert und niemals mit einer Drittpartei geteilt. Er wird ausschließlich für den beabsichtigten Zweck verwendet, um auf die OpenAI-API zuzugreifen und nicht für jede andere unbefugte Verwendung.",
   "apiEndpoint": {
-    "option": "Use for free",
-    "inputLabel": "API Endpoint",
-    "description": "Thank you to <0>Ayaka</0> for providing the free API endpoint: https://chatgpt-api.shn.hk/v1/",
-    "note": "Please note that the availability of the free endpoint is not indefinite, as its funding is limited and will eventually be depleted. Users with their own API key can continue using BetterChatGPT without any disruptions."
+    "option": "Kostenlose Verwendung",
+    "inputLabel": "API-Endpunkt",
+    "description": "Vielen Dank an <0>Ayaka</0> für die Bereitstellung des kostenlosen API-Endpunkts: https://chatgpt-api.shn.hk/v1/",
+    "note": "Bitte beachten Sie, dass die Verfügbarkeit des kostenlosen Endpunkts nicht unbegrenzt ist, da seine Finanzierung begrenzt und irgendwann aufgebraucht werden kann. Benutzer mit ihrem eigenen API-Schlüssel können BetterChatGPT ohne Unterbrechungen weiterhin nutzen."
   },
   "apiKey": {
-    "option": "Use your own API key",
-    "howTo": "Get your personal API key <0>here</0>",
-    "inputLabel": "API Key"
+    "option": "Verwenden Sie Ihren eigenen API-Schlüssel",
+    "howTo": "Erhalten Sie Ihren persönlichen API-Schlüssel <0>hier</0>",
+    "inputLabel": "API Schlüssel"
   },
-  "customEndpoint": "Use custom API endpoint",
-  "shareGPT": "Checkout <0>ShareGPT</0>, a API key sharing tool that powers https://sharegpt.churchless.tech/share/v1/chat",
-  "advancedConfig": "View advanced API configuration <0>here</0>",
-  "noApiKeyWarning": "No API key supplied! Please check your API settings."
+  "customEndpoint": "Verwenden Sie benutzerdefinierten API-Endpunkt",
+  "shareGPT": "Schauen Sie sich <0>ShareGPT</0> an, ein Werkzeug zum Teilen von API-Schlüsseln, das https://sharegpt.churchless.tech/share/v1/chat unterstützt",
+  "advancedConfig": "Sehen Sie sich eine erweiterte API-Konfiguration <0>hier</0> an",
+  "noApiKeyWarning": "Kein API-Schlüssel übergeben! Bitte überprüfen Sie Ihre API-Einstellungen."
 }
