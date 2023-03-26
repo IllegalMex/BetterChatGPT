@@ -1,0 +1,3 @@
+#Verhindert das Indizieren der URL chatgpt.local durch alle Crawler
+User-agent: *
+Disallow: /
